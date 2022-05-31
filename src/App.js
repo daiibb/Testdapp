@@ -198,7 +198,7 @@ function App() {
       <s.Container
         flex={1}
         ai={"center"}
-        style={{ padding: 24, backgroundColor: "var(--primary)" }}
+        style={{ padding: 24, }}
         image={CONFIG.SHOW_BACKGROUND ? "/config/images/bg.png" : null}
       >
         <StyledLogo alt={"logo"} src={"/config/images/logo.png"} />
@@ -274,7 +274,7 @@ function App() {
                 <s.TextTitle
                   style={{ fontsize: "44", textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  Whiteliste Price  {CONFIG.DISPLAY_COST}{" "}
+                  Mint Price  {CONFIG.DISPLAY_COST}{" "}
                   {CONFIG.NETWORK.SYMBOL}.
                 </s.TextTitle>
                 <s.TextDescription
