@@ -10,7 +10,7 @@
   "SYMBOL": "OKAY",
   "MAX_SUPPLY": 160,
   "WEI_COST": 88000000000000000,
-  "DISPLAY_COST": 0.088,
+  "DISPLAY_COST": 0.1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/okaynft-tibrl0s9bs",
